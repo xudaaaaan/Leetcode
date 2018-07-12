@@ -1,13 +1,5 @@
 # Welcome aboard!
 
-## Offline Discussions
-Id | Date | Links
--- | -- | -- 
-1 | 2018/04/18 | 
-2 | 2018/04/26 | 1. Peals in Python by Shane Tsui: [Link1](http://magry.cn:8000/notebooks/2018-04-26/Pearls.ipynb), [Link2](https://github.com/ShaneTsui/Leetcode/blob/master/ShaneTsui/Resources/Pearls.ipynb)<br>2. [Collabedit Code](https://github.com/ShaneTsui/Leetcode/blob/master/ShaneTsui/Discussions/2018-04-26.py)<br>3. [Palindromic Substring](https://github.com/ShaneTsui/Leetcode/blob/master/dan/Resourses/Palindromic%20Substrings.pptx) by Dan
-3 | 2018/05/07 | 1. Group discussion on 5/7/2018 by Dan: [Link1](http://magry.cn:8000/notebooks/2018-05-07/Group%20discussion%20-%20Dan%20Xu.ipynb), [Link2](https://github.com/ShaneTsui/Leetcode/blob/master/dan/Resourses/Group%20discussion%20-%20Dan%20Xu.ipynb)<br>2. [Collabedit Code](https://github.com/ShaneTsui/Leetcode/blob/master/Guorui-Ma/Resources/2018-05-07.md)
-4 | 2018/05/21 | 1. Overview of Front-end Developing by Guorui: [PPT](https://github.com/ShaneTsui/Leetcode/blob/master/Guorui-Ma/Resources/May-21-2018-Overview-of-Front-end-Developing.pptx), [PDF](https://github.com/ShaneTsui/Leetcode/blob/master/Guorui-Ma/Resources/May-21-2018-Overview-of-Front-end-Developing.pdf)
-
 ## Challenges
 Id | Date | problems
 -- | -- | -- 
@@ -36,60 +28,20 @@ Id | Date | problems
 23 | 2018/07/02 |  [Easy · 204. Count Primes](https://leetcode.com/problems/count-primes/description/)<br>[Medium · 29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)<br>[Medium · 166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/description/)<br>[Medium · 130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/)<br>[Medium · 127. Word Ladder](https://leetcode.com/problems/word-ladder/description/)<br>[Medium · 91. Decode Ways](https://leetcode.com/problems/decode-ways/description/)<br>[Hard · 23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)<br>
 24 | 2018/07/03 | [Medium · 36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)<br>[Medium · 79. Word Search](https://leetcode.com/problems/word-search/description/)<br>[Medium · 279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)<br>[Hard · 37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/)<br>[Hard · 51. N-Queens](https://leetcode.com/problems/n-queens/description/)<br>[Hard · 273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/)<br>
 25 | 2018/07/10 | [Medium · 62. Unique Paths](https://leetcode.com/problems/unique-paths/description/)<br>[Medium · 64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)<br>[Medium · 63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)<br>[Medium · 96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/)<br>[Medium · 95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/)<br>[Hard · 72. Edit Distance](https://leetcode.com/problems/edit-distance/description/)<br>[Medium · 300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)<br>
+26 | 2018/07/11 | [Easy · 198. House Robber](https://leetcode.com/problems/house-robber/description/)<br>[Medium · 78. Subsets](https://leetcode.com/problems/subsets/description/)<br>[Medium · 55. Jump Game](https://leetcode.com/problems/jump-game/description/)<br>[Medium · 134. Gas Station](https://leetcode.com/problems/gas-station/description/)<br>[Medium · 241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/description/)<br>
+27 | 2018/07/12 | [Easy · 160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)<br>[Medium · 142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)<br>[Medium · 148. Sort List](https://leetcode.com/problems/sort-list/description/)<br>[Medium · 138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/)<br>[Medium · 328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)<br>
+
 ## Preparations
-Here're some online references you may turn to when you have trouble with git, python etc.<br>
 * [git tutorial](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)<br>
 * [python 3 tutorial](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 * [python 3 official tutorial(English)](https://docs.python.org/3/tutorial/index.html)
 
-## Get started
-0. Clone the repo
-``` shell
-git clone https://github.com/ShaneTsui/Leetcode.git
-# You can also ask the owner to add your public key to this repo, then you could use ssh
-git clone git@github.com:ShaneTsui/Leetcode.git
-```
+## Offline Discussions
+Id | Date | Links
+-- | -- | -- 
+1 | 2018/04/18 | 
+2 | 2018/04/26 | 1. Peals in Python by Shane Tsui: [Link1](http://magry.cn:8000/notebooks/2018-04-26/Pearls.ipynb), [Link2](https://github.com/ShaneTsui/Leetcode/blob/master/ShaneTsui/Resources/Pearls.ipynb)<br>2. [Collabedit Code](https://github.com/ShaneTsui/Leetcode/blob/master/ShaneTsui/Discussions/2018-04-26.py)<br>3. [Palindromic Substring](https://github.com/ShaneTsui/Leetcode/blob/master/dan/Resourses/Palindromic%20Substrings.pptx) by Dan
+3 | 2018/05/07 | 1. Group discussion on 5/7/2018 by Dan: [Link1](http://magry.cn:8000/notebooks/2018-05-07/Group%20discussion%20-%20Dan%20Xu.ipynb), [Link2](https://github.com/ShaneTsui/Leetcode/blob/master/dan/Resourses/Group%20discussion%20-%20Dan%20Xu.ipynb)<br>2. [Collabedit Code](https://github.com/ShaneTsui/Leetcode/blob/master/Guorui-Ma/Resources/2018-05-07.md)
+4 | 2018/05/21 | 1. Overview of Front-end Developing by Guorui: [PPT](https://github.com/ShaneTsui/Leetcode/blob/master/Guorui-Ma/Resources/May-21-2018-Overview-of-Front-end-Developing.pptx), [PDF](https://github.com/ShaneTsui/Leetcode/blob/master/Guorui-Ma/Resources/May-21-2018-Overview-of-Front-end-Developing.pdf)
 
-1. Set up and switch to your own branch
-```shell
-git checkout -b YOU-BRANCH-NAME
-```
 
-2. Set up your own folder, which will be your personal little coding universe~
-```shell
-mkdir YOU-FOLDER-NAME
-```
-**Suggestion**:You could organize the sub-folders' structure as you wish, which could base on difficulties, tags(e.g array, string...), or what so ever as you wish~
-
-3. Enjoy coding~
-
-4. Use "git add" to track your latest changes, and "git commit" them to your local repository.
-```shell
-git add FILES-TO-BE-TRACKED
-git commit -m 'YOUR-COMMENTS'
-# You can also track all files and commit them to the local repo
-git commit -a -m 'YOUR-COMMENTS'
-```
-
-5. Merge your brach to the master branch, and use github as a memo of your progress.
-```shell
-git checkout master
-git merge YOUR-BRANCH-NAME
-```
-
-6. [Optional] You may upload all your code to github regularly.
-
-__On master branch__
-```shell
-git pull
-# If conflits appear, solve it first.
-git push
-```
-
-__On your own branch__
-```shell
-# For the first time to push code in your branch, you may set remote upstream
-git push --set-upstream origin YOU-BRANCH-NAME
-# Not the first time to push
-git push
-```
